@@ -101,7 +101,12 @@ body {
 	color: #355e91;
 }
 
+.service {
+	position: relative;
+}
+
 footer {
+	position: relative;
 	background-color: rgba(255,255,255,.9);
 	color: #355e91;
 }
